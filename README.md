@@ -2,7 +2,7 @@
 ### PostCSS plugin to do +, -, *, /, %, and ^ operations.
 
 Utilizes math.js to correctly parse order of operations. Also, 
-an when expressions can not be resolved (if there are are multiple
+when expressions can not be resolved (if there are are multiple
 units types for example), postcss-arithmetic can replace the whole
 expression with a CSS `calc()` statement.
 
