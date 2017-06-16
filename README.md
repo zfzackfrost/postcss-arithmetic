@@ -8,6 +8,6 @@ expression with a CSS `calc()` statement.
 
 ## Options: 
 
-`calcMultipleUnits` ---  Replace exrpessions with multiple units with CSS `calc()` functions; Default: `true`
+`calcMultipleUnits` --- Replace exrpessions with multiple units with CSS `calc()` functions; type: `Boolean`, Default: `true`
 
 #### By: Zack Frost
